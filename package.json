@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "eslint": "^9.9.1",
+    "shelljs": "^0.8.5",
+    "table": "^6.8.2"
+  }
+}
