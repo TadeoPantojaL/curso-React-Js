@@ -1,0 +1,18 @@
+.faq {
+    background-color: #f0f0f0;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .faq-item {
+    margin: 20px 0;
+  }
+  
+  .faq-item h3 {
+    color: #333;
+  }
+  
+  .faq-item p {
+    color: #666;
+  }
+  

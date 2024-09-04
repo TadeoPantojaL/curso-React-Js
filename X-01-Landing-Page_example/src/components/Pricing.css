@@ -1,0 +1,56 @@
+.pricing {
+  background: #f9f9f9;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.pricing .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.pricing h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.pricing-plan {
+  background: #fff;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.pricing-plan h3 {
+  font-size: 1.5rem;
+  color: #007bff;
+}
+
+.pricing-plan p {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.pricing-plan ul {
+  list-style: none;
+  padding: 0;
+}
+
+.pricing-plan li {
+  margin: 5px 0;
+}
+
+.pricing-plan button {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.pricing-plan button:hover {
+  background-color: #0056b3;
+}

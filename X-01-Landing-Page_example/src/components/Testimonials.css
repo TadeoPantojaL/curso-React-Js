@@ -1,0 +1,27 @@
+.testimonials {
+    background-color: #f9f9f9;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .testimonial {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    width: 250px;
+  }
+  
+  .testimonial p {
+    color: #333;
+    font-style: italic;
+  }
+  
+  .testimonial p:last-child {
+    color: #666;
+    font-style: normal;
+    margin-top: 10px;
+  }
+  

@@ -96,9 +96,9 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia, corrección o n
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## Contacto
 
-Si tienes alguna pregunta, puedes contactarme en:
+## Ejemplos Extras:
 
-- Correo electrónico: tu-email@example.com
-- GitHub: [tu-usuario](https://github.com/tu-usuario)
+1. Ejemplo de Landing Page:
+![Landing Page](./imgs-example-views/landing-page.png)
+[visitar](https://test.nexwey.online/landing-page-example/)

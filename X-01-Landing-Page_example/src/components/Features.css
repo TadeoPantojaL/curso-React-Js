@@ -1,0 +1,18 @@
+.features {
+    background-color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .feature-item {
+    margin: 20px 0;
+  }
+  
+  .feature-item h3 {
+    color: #333;
+  }
+  
+  .feature-item p {
+    color: #666;
+  }
+  
