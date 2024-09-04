@@ -100,5 +100,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 ## Ejemplos Extras:
 
 1. Ejemplo de Landing Page:
-![Landing Page](./imgs-examples-views/landing-page-example.png)
+![Landing Page](https://github.com/TadeoPantojaL/curso-React-Js/blob/master/imgs-examples-views/landing-page-example.png?raw=true)
 [visitar](https://test.nexwey.online/landing-page-example/)
