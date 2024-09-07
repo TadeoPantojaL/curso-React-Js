@@ -24,23 +24,33 @@ p{
     color: white;
     font-size: 25px;
     font-weight: 500;
-    margin-top: -30px;
-    border: 2px solid white;
     border-radius: 50px;
     padding: 10px;
-    background-color: black;
 }
 main{
     display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
-    
+}
+section{
+    display: flex;
+    flex-direction: space-between;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin-top: 250px;
+    background-color: black;
+    border-radius: 50px;
 }
 canvas{
-    border: 2px solid white;
     border-radius: 50px;
-    background-color: black;
+    max-width: 300px;
+    height: auto;
     
 }
+
+
 main button{
     background-color: #5600f7;
     color: white;
@@ -51,7 +61,7 @@ main button{
     cursor: pointer;
     font-size: 30px;
     font-weight: 500;
-    margin-bottom: 20px;
+    margin-bottom: -200px;
     transition: 0.5s;
 }
 main button:hover{

@@ -8,13 +8,16 @@ function App() {
   const [threeFirstWords, setThreeFirstWords] = useState("");
 
   return (
-    <main style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", gap: "20px" }}>
+    <main>
       <h1>App de Gatitos</h1>
       <button onClick={() => window.location.reload()} >
       Get New Cat Fact
       </button>
-      <CatFact setFact={setFact} setThreeFirstWords={setThreeFirstWords} fact={fact} />
-      <CatImage threeFirstWords={threeFirstWords} />
+     <section>
+     <CatFact setFact={setFact} setThreeFirstWords={setThreeFirstWords} fact={fact} />
+     <CatImage threeFirstWords={threeFirstWords} />
+     </section>
+      
     </main>
   );
 }
